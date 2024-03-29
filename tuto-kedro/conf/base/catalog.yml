@@ -1,0 +1,13 @@
+digits:
+  type: pickle.PickleDataset
+  filepath: data/01_raw/digits.pkl
+
+regressor:
+  type: pickle.PickleDataset
+  filepath: data/06_models/regressor.pickle
+  versioned: true
+
+score:
+  type: tracking.MetricsDataset
+  filepath: data/08_reporting/eval.json
+  versioned: true

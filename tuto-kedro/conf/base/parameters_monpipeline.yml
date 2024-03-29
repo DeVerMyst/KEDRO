@@ -1,0 +1,10 @@
+# This is a boilerplate parameters config generated for pipeline 'monpipeline'
+# using Kedro 0.19.3.
+#
+# Documentation for this file format can be found in "Parameters"
+# Link: https://docs.kedro.org/en/0.19.3/configuration/parameters.html
+
+# parameters:
+#   test_size: .2
+#   random_state: 42
+#   max_iter: 1000
