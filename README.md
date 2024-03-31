@@ -3,6 +3,10 @@
 29-03-2024
 
 **Kévin** and **Boris** Tutorial
+
+`https://docs.google.com/presentation/d/1utDeKAt2LnzV2jk3deJQVYWQno_UcyA3_Tbavc9DGVg/edit?usp=sharing`
+
+
 ### step by step
 
 ##### VENV
